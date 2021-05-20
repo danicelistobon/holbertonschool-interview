@@ -7,7 +7,7 @@
 
 int _putchar(char c);
 int main(int argc, char *argv[]);
-int _isdigit(int c);
+int _isdigit(char *c);
 void multiply(char *a, char *b);
 int _strlen(char *s);
 
